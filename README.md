@@ -15,8 +15,17 @@ git clone https://github.com/dieramirezma/JuegoDePeleasDeFSVBBSFBDNRM.git
 2. Acceder al ejecutable
 Con el repositorio descargado, ejecutar el archivo "Juego Pelas.exe"
 
-3. Disfruta :)
+3. Controles:
+- AWSD: movimiento del personaje
+- OPK: golpes
+- Espacio: bloquear golpes
+
+4.
+
+5. 
+
 ![alt text](image.png)
+
 
 Desarrollado originalmente por: 
 - Felipe Santiago Valderrama Ballesteros - [https://github.com/fvalderramab](https://github.com/fvalderramab)
